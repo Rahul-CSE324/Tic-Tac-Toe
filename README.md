@@ -14,10 +14,15 @@ This project was created as part of my web development learning journey.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies used
 
 - HTML5  
 - CSS3  
 - JavaScript 
 
 ---
+📸 Game Preview
+<img width="1912" height="890" alt="image" src="https://github.com/user-attachments/assets/a1dcc228-9db3-498d-9ef7-b5adb36330df" />
+
+---
+
